@@ -20,3 +20,5 @@ This repository contains a set of tools and simulations designed to analyze how 
 
 ## How to Use
 To run the simulation, execute the following command:
+`python3 1to1.py`
+
