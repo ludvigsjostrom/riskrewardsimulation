@@ -4,7 +4,7 @@
 This repository contains a set of tools and simulations designed to analyze how different risk to reward ratios affect trading performance and account balance in financial markets.
 
 ## Features
-- Simulation of various trading scenarios
+- Simulation of various FRICTIONLESS trading scenarios
 - Adjustable risk to reward ratio settings
 - Detailed performance analysis
 
