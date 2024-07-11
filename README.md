@@ -14,7 +14,7 @@ This repository contains a set of tools and simulations designed to analyze how 
 - Numpy
 
 ## Installation and Setup
-1. Clone the repository: `git clone https://github.com/otw2/riskrewardsimulation.git`
+1. Clone the repository: `git clone https://github.com/ludvigsjostrom/riskrewardsimulation.git`
 2. Navigate to the project directory: `cd simulation`
 3. Install dependencies: `pip install -r requirements.txt`
 
